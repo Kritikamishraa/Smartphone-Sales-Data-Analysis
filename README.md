@@ -69,7 +69,7 @@ Sample data included in: `smartphone_sales.csv`
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/<your-username>/smartphone-sales-analysis.git
+   github (https://github.com/Kritikamishraa/Smartphone-Sales-Data-Analysis)
    cd smartphone-sales-analysis
    ```
 
@@ -105,8 +105,8 @@ Sample data included in: `smartphone_sales.csv`
 
 **Kritika Mishra**  
 📧 Email: kritikamishraa12@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/kritika-mishra-578574317/)  
-🐱 [GitHub](https://github.com/Kritikamishraa)
+🔗 [LinkedIn][(https://www.linkedin.com/in/kritika-mishra-578574317/) ](https://www.linkedin.com/in/kritika-mishra-578574317/) 
+🐱 [GitHub][(https://github.com/Kritikamishraa)](https://github.com/Kritikamishraa/Smartphone-Sales-Data-Analysis)
 
 ---
 
