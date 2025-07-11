@@ -1,0 +1,11 @@
+Date,Brand,Model,Units_Sold,Price_per_Unit,Region
+2023-01-15,Samsung,Galaxy S21,120,700,North
+2023-01-20,Apple,iPhone 13,80,999,East
+2023-02-05,Xiaomi,Redmi Note 11,200,250,South
+2023-03-10,Samsung,Galaxy A52,150,450,West
+2023-04-12,Apple,iPhone 13,100,999,North
+2023-05-08,Xiaomi,Poco X4,180,300,East
+2023-06-15,Samsung,Galaxy S21,130,700,South
+2023-07-20,Apple,iPhone 14,90,1099,West
+2023-08-10,Xiaomi,Redmi Note 12,220,270,North
+2023-09-05,Apple,iPhone 14,95,1099,South
