@@ -106,7 +106,7 @@ Sample data included in: `smartphone_sales.csv`
 **Kritika Mishra**  
 📧 Email: kritikamishraa12@gmail.com  
 🔗 [LinkedIn][(https://www.linkedin.com/in/kritika-mishra-578574317/) ](https://www.linkedin.com/in/kritika-mishra-578574317/) 
-🐱 [GitHub][(https://github.com/Kritikamishraa)](https://github.com/Kritikamishraa/Smartphone-Sales-Data-Analysis)
+    [GitHub][(https://github.com/Kritikamishraa)](https://github.com/Kritikamishraa/Smartphone-Sales-Data-Analysis)
 
 ---
 
